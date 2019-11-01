@@ -1,0 +1,30 @@
+MAIL FROM: <ed@usyd.edu.au>
+MAIL FROM:< @usyd.edu.au>
+MAIL FROM:<nu@mail.com>
+MAIL FROM:<test2@usyd.edu.au>
+HELO
+RCPT TO: <ed@mail.com>
+RCPT TO:< no@mail.com>
+RCPT TO:<atsok@gmail.com>
+RCPT TO:<atsokkoffee.com>
+helo
+HELO 
+MAIL FROM:<no@usyd.edu.com>
+DATA:
+DATA
+Subject:Test mail
+Date: 11 / 12 / 1996
+To: Atsok
+From: Annaed 
+Hello, oops I mean HELO
+HELO in russian ;)
+Tomota sauce :)
+thats all. gg
+spicy memes
+
+me out! 
+.
+.
+.
+HELO
+QUIT

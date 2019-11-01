@@ -1,0 +1,11 @@
+MAIL FROM:<test@it.usyd.edu.au>
+RCPT TO:<testrcpt@ed.com.au>
+DATA
+
+HELO
+This was like the worst documented assignment. 
+You literally linked us to a website to check it out ourselves. 
+
+bye.
+
+.
